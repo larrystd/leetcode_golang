@@ -1,1 +1,3 @@
-# leetcode_golang
+### leetcode_golang
+
+leetcode algrithm implement with golang
